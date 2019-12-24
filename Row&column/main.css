@@ -1,0 +1,87 @@
+/*Row and columm*/
+
+.row_divide {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.col-divide-1 {
+    flex: 0 0 7%;
+    max-width: 7%;
+    width: 100%;
+}
+
+.col-divide-2 {
+    flex: 0 0 14%;
+    max-width: 14%;
+    width: 100%;
+}
+
+.col-divide-3 {
+    flex: 0 0 22%;
+    max-width: 22%;
+    width: 100%;
+}
+
+.col-divide-4 {
+    flex: 0 0 31%;
+    max-width: 31%;
+    width: 100%;
+}
+
+.col-divide-5 {
+    flex: 0 0 40%;
+    max-width: 40%;
+    width: 100%;
+}
+
+.col-divide-6 {
+    flex: 0 0 48%;
+    max-width: 48%;
+    width: 100%;
+}
+
+.col-divide-7 {
+    flex: 0 0 57%;
+    max-width: 57%;
+    width: 100%;
+}
+
+.col-divide-8 {
+    flex: 0 0 65%;
+    max-width: 65%;
+    width: 100%;
+}
+
+.col-divide-9 {
+    flex: 0 0 73%;
+    max-width: 73%;
+    width: 100%;
+}
+
+.col-divide-10 {
+    flex: 0 0 81%;
+    max-width: 81%;
+    width: 100%;
+}
+
+.col-divide-11 {
+    flex: 0 0 90%;
+    max-width: 90%;
+    width: 100%;
+}
+
+.col-divide-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+}
+
+/*Modal Form Recuit*/
+
+/*Responsive*/
+ .row_divide .col-divide-6 {
+        flex: auto;
+        max-width: 100%;
+  }
